@@ -21,9 +21,6 @@ Open source links page, customizable via JSON. Made with Astro 4.
 
 </div>
 
-![AstroLinkHub Screenshot](/public/screenshot.webp)
-
-
 ## Table of Contents
 
   <ol>
