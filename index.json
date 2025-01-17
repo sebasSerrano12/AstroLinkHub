@@ -1,46 +1,36 @@
 {
   "html": {
     "lang": "en",
-    "title": "Marcos Carrasco",
+    "title": "Sebastian Serrano",
     "description": "Follow me on all my socials",
     "favicon": "/favicon.svg"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#990024",
+    "secondColor": "#AC7A86"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "/IMG_2229.webp",
     "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
+    "title": "Sebastian Serrano",
     "description": "Full Stack Developer",
     "textColor": "white"
   },
   "socials": [
     {
       "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "username": "sebasSerrano12",
+      "url": "https://github.com/sebasSerrano12"
     },
     {
-      "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "network": "Discord",
+      "username": "sesm3",
+      "url": "https://discord.com/channels/@me/sesm3/"
     },
     {
-      "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
-    },
-    {
-      "network": "Mail",
-      "username": "marcosklender",
-      "url": "mailto:marcosklender@gmail.com"
-    },
-    {
-      "network": "Link",
-      "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
+      "network": "Bluesky",
+      "username": "Sebastian",
+      "url": "https://bsky.app/profile/sesm3.bsky.social"
     }
   ],
   "featured": [
@@ -53,36 +43,28 @@
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
-  ],
+  ] ,
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
+      "url": "https://www.linkedin.com/in/sebastian-serrano12/",
       "title": "Let's connect on LinkedIn",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
-      "title": "Follow me on Instagram",
+      "network": "X",
+      "url": "https://x.com/cbasscodes",
+      "title": "Follow me on X",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
       "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
+      "url": "mailto:se.serrano12@gmail.com",
       "title": "Contact me anytime",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
-      "title": "See more templates",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
